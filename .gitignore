@@ -10,3 +10,6 @@ report
 
 # quick local actions for act
 .github/workflows/act.yml
+
+# Claude Code settings (may contain credentials)
+.claude/settings*.json
